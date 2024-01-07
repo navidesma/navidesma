@@ -5,13 +5,13 @@
 ## Skills:
 
 ```javascript
-const NavidEsma = {
-  spokenLanguages: ["Persian", "English"],
+let NavidEsma = {
+  languageSkills: [{Persian: "Native proficiency"}, {English: "Full professional proficiency"}],
   programmingLanguages: ["JavaScript", "TypeScript", "Python", "Java"],
   myStack: {
     backEnd: {
       frameworks: ["Django", "ExpressJS", "Spring Boot"],
-      databases: ["Postgres", "MariaDB", "MongoDB"],
+      databases: ["Postgresql", "MariaDB", "MongoDB"],
     },
     frontEnd: {
       frameworks: ["ReactJS", "a bit of Angular"],
