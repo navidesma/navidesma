@@ -11,12 +11,13 @@ let NavidEsma = {
   myStack: {
     backEnd: {
       frameworks: ["Django", "ExpressJS", "Spring Boot"],
-      databases: ["Postgresql", "MariaDB", "MongoDB"],
+      databases: ["Postgresql", "MySQL", "MongoDB"],
     },
     frontEnd: {
       frameworks: ["ReactJS", "a bit of Angular"],
       libraries: ["Bootstrap", "MUI (Material UI)", "jQuery"],
     },
+    serverSide: ["Docker", "Docker Compose", "Linux System Administration"]
   },
 };
 ```
