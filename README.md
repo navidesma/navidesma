@@ -26,4 +26,4 @@ let NavidEsma = {
 
 [My Telegram Account](https://t.me/navidesma)
 
-[My Website](https://navidesma.ir)
+[My Website](https://navidesma.com)
