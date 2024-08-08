@@ -14,8 +14,8 @@ let NavidEsma = {
       databases: ["Postgresql", "MySQL", "MongoDB"],
     },
     frontEnd: {
-      frameworks: ["ReactJS", "a bit of Angular"],
-      libraries: ["Bootstrap", "MUI (Material UI)", "jQuery"],
+      frameworks: ["ReactJS"],
+      UILibraries: ["Bootstrap", "MUI (Material UI)", "jQuery"],
     },
     serverSide: ["Docker", "Docker Compose", "Linux System Administration"]
   },
